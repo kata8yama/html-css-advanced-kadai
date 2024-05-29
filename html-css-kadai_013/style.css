@@ -67,8 +67,8 @@ PC用のスタイル
 }
 /* 画面幅が767px以下のとき */
 @media screen and (max-width: 767px) {
-  /* スマートフォン用のスタイルを指定する */
-}
+
+/* スマートフォン用のスタイルを指定する */
 body {
   min-width: 375px;
   margin: 0;
@@ -123,4 +123,5 @@ text-decoration: underline;
   background-image: url("images/arrow.png");
   background-repeat: no-repeat;
   background-position: right top;
+}
 }
